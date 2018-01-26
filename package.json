@@ -1,0 +1,14 @@
+{
+  "name": "react-app",
+  "version": "0.0.1",
+  "description": "React starter",
+  "main": "App.js",
+  "scripts": {
+    "start": "react-app-scripts dev-server"
+  },
+  "devDependencies": {
+    "react-app-env": "lasekio/react-app-env#master"
+  },
+  "author": "",
+  "license": "ISC"
+}
